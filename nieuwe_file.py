@@ -2,4 +2,4 @@
 
 while (true):
     print("stukje text")
-    print("nog een stukje text")
+    print("een stukje text")
